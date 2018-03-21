@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{93AB67A6-D942-4447-969D-BD6B9A6C1AC6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Remote/Program.cs">
+    <Files>
+      <File FileName="Remote/Program.cs" Line="30" Column="6" />
+      <File FileName="Remote/IDrivable.cs" Line="9" Column="21" />
+      <File FileName="Remote/Vehicle.cs" Line="29" Column="1" />
+      <File FileName="Remote/IElectronicDevice.cs" Line="12" Column="1" />
+      <File FileName="Remote/Television.cs" Line="36" Column="1" />
+      <File FileName="Remote/ICommand.cs" Line="10" Column="1" />
+      <File FileName="Remote/PowerButton.cs" Line="24" Column="1" />
+      <File FileName="Remote/TVRemote.cs" Line="13" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Remote PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
